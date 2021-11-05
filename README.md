@@ -14,3 +14,10 @@ Another example: https://www.amazon.ca/%E3%80%905-Pack%E3%80%91-Various-Lengths-
 ## Controller board
 
 The controller board on the back follows Seeeduino XIAO ARM. Here is its wiki: https://wiki.seeedstudio.com/Seeeduino-XIAO/
+
+If you have not used SeeeduinoXIAO before, do the following with Arduino:
+
+Add Seeeduino to your Arduino IDE
+Click on File > Preference, and fill Additional Boards Manager URLs with the url below: 
+https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
+
